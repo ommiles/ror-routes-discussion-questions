@@ -38,16 +38,5 @@ You can change `get 'pizzas/:id', to: 'pizzas#show'` to:
 
 1. What are the steps that Rails will take to implement the use cases below? List the verb/path, controller/action and associated SQL.
 
-    - Display a list of resources
-        - /pizzas
-        select * 
-    
-    - Delete a resource
-        - Text
-    
-    - Create a new resource
-        - Text
-    
-    - Display one resource
-        - retrieve by ID
+Answer in chart above.  
 
